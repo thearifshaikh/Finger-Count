@@ -23,7 +23,7 @@ This is a Computer Vision Project where it detects the hand first,segment the ha
 - A circle is drawn from the centre of the hand.
 - Any points of the convex polygon lying outside the circle is counted as a finger.
 
-![hand_convex](https://user-images.githubusercontent.com/56214309/80427579-b43d9d00-8905-11ea-8d58-a734412c2ff7.png)
+![hand_convex](https://user-images.githubusercontent.com/56214309/80429387-940fdd00-8909-11ea-9987-9e8f919bcde5.png)
 
 ## RESULTS
 
