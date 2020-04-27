@@ -6,12 +6,14 @@ Before run the program ensure that you have a good lighting on hand
 
 ## Working Steps
 First a Region of Interest(ROI) is selected (here top right corner) .A red rectangle box will be visible as shown below.
-
-![Reference 1](https://user-images.githubusercontent.com/56214309/80413431-150cab80-88ed-11ea-94dd-fbbc0c41fa6e.png)
-
 We need to gently place our hand inside the red rectangle box as shown below.
 
-![Reference 2](https://user-images.githubusercontent.com/56214309/80413729-8c423f80-88ed-11ea-91ca-64c41fcdb633.png)
+
+![Reference 1](https://user-images.githubusercontent.com/56214309/80414842-46867680-88ef-11ea-84dc-929e0adc0c85.png)
+
+
+
+
 
 
 
