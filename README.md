@@ -25,6 +25,8 @@ This is a Computer Vision Project where it detects the hand first,segment the ha
 
 ![hand_convex](https://user-images.githubusercontent.com/56214309/80427579-b43d9d00-8905-11ea-8d58-a734412c2ff7.png)
 
+## RESULTS
+
 
 
 
