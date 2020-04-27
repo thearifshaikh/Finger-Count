@@ -27,6 +27,8 @@ This is a Computer Vision Project where it detects the hand first,segment the ha
 
 ## RESULTS
 
+![Result](https://user-images.githubusercontent.com/56214309/80429059-ddabf800-8908-11ea-8fc1-b3d2f2632b7b.png)
+
 
 
 
