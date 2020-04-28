@@ -1,2 +1,2 @@
-OpenCV
+cv2
 numpy
